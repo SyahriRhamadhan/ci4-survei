@@ -84,7 +84,7 @@
               <a href="<?= base_url('admin/jabatan') ?>"> Data Jabatan </a>
             </li>
             <li>
-              <a href="#"> Lokasi Presensi </a>
+              <a href="<?= base_url('admin/lokasi_presensi') ?>"> Lokasi Presensi </a>
             </li>
           </ul>
         </li>
